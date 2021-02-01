@@ -34,6 +34,7 @@ This project uses the Cleveland Heart Disease dataset and the 14 features contai
     6. if needed, calculate the percentage of values in each category and plot the percents using a Matplot Lib pie chart
     
 **Feature Analysis.ipynb**
+
    This notebook displays plots of each feature, in order to drive decision-making about Machine Learning problem approach.
    
 **Machine Learning Prediction.ipynb**
