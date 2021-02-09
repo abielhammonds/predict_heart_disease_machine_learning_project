@@ -38,4 +38,5 @@ This project uses the Cleveland Heart Disease dataset and the 14 features contai
    This notebook displays plots of each feature, in order to drive decision-making about Machine Learning problem approach.
    
 **Machine Learning Prediction.ipynb**
-   work in progress
+   
+   This noteook explores machine learning techniques, and an attempt at ensemble learning as a method of improving accuracy.  Feature (permutation) importance is explored as well.  The two models used in this project are Logistic Regression and Decision Tree - they are ensembled through Bagging and Voting classifiers.
